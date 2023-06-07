@@ -1,7 +1,8 @@
 # Employee-Tracker-for-HR
 
 
-## Project Description: The project demanded to evaluate employees data for the HR department and produce a finished dashboard. 
+## Project Description:
+The project demanded to evaluate employees data for the HR department and produce a finished dashboard. 
 This investigation includes patterns linked to employee attendance in the office, work-from-home trends, and sick leave patterns within the organisation. 
 By gathering insights from this study, the HR department may plan future programs, optimize team sizes for forthcoming projects,
 and even organize vaccination campaigns based on sick leave data. This data-driven strategy not only boosts productivity and
